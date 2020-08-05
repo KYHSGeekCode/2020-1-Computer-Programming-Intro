@@ -1,0 +1,6 @@
+﻿  practice05.c
+e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice05\practice05\practice05.c(10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice05\practice05\practice05.c(10): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice05\practice05\practice05.c(10): note: the missing variadic argument 2 is required by format string '%c'
+  e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice05\practice05\practice05.c(10): note: this argument is used as a buffer size
+  practice05.vcxproj -> E:\Downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice05\Debug\practice05.exe

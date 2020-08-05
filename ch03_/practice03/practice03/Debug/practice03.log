@@ -1,0 +1,11 @@
+﻿  practice03.c
+e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice03\practice03\practice03.c(27): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice03\practice03\practice03.c(27): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice03\practice03\practice03.c(27): note: the missing variadic argument 2 is required by format string '%c'
+  e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice03\practice03\practice03.c(27): note: this argument is used as a buffer size
+e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice03\practice03\practice03.c(36): warning C4244: '*=': conversion from 'const double' to 'int', possible loss of data
+e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice03\practice03\practice03.c(41): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice03\practice03\practice03.c(41): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice03\practice03\practice03.c(41): note: the missing variadic argument 2 is required by format string '%c'
+  e:\downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice03\practice03\practice03.c(41): note: this argument is used as a buffer size
+  practice03.vcxproj -> E:\Downloads\서울대학교 싸강\컴퓨터프로그래밍개론\ch03\practice03\Debug\practice03.exe
